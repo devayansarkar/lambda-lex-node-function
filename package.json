@@ -1,0 +1,17 @@
+{
+  "name": "basic-node-app",
+  "version": "1.0.0",
+  "description": "This is a basic Node AWS Lambda App which can accept the webhook calls from LEX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LEX",
+    "Node",
+    "APP",
+    "Lambda"
+  ],
+  "author": "Devayan Sarkar",
+  "license": "ISC"
+}
