@@ -1,9 +1,6 @@
 'use strict';
 
 console.log('Loading function');
-
-
-'use strict';
      
     // Close dialog with the customer, reporting fulfillmentState of Failed or Fulfilled ("Thanks, your pizza will arrive in 20 minutes")
     function close(sessionAttributes, fulfillmentState, message) {
